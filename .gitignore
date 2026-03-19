@@ -36,6 +36,12 @@ logfiles/
 # 文档构建
 docs/_build/
 
+# AI/开发指南文档（不需要上传）
+AGENTS.md
+AGENTS_GUIDE.md
+.cursorrules
+GITHUB_GUIDE.md
+
 # 测试数据（大文件）
 benchmarks/
 ss_benchmarks/

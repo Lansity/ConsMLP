@@ -1,0 +1,41 @@
+# 构建目录
+build/
+cmake-build-*/
+out/
+Debug/
+Release/
+
+# IDE 文件
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+.AGENTS.md.swp
+
+# 编译生成的文件
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.exe
+cons_partitioner
+
+# 日志文件
+*.log
+logfiles/
+
+# 临时文件
+*.tmp
+*.temp
+.cache/
+
+# 文档构建
+docs/_build/
+
+# 测试数据（大文件）
+benchmarks/
+ss_benchmarks/

@@ -1,0 +1,6 @@
+case_name,cut_size,total_time_s,status
+dsp_6200_lut_930000_fd_1860000,,,FAILED
+dsp_7400_lut_1110000_fd_2220000,0,6.787,SUCCESS
+dsp_8000_lut_1200000_fd_2400000,0,8.754,SUCCESS
+dsp_9200_lut_1380000_fd_2760000,0,9.467,SUCCESS
+k_2200,0,10.514,SUCCESS

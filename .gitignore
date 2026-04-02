@@ -45,8 +45,6 @@ GITHUB_GUIDE.md
 # 测试数据（大文件）
 benchmarks/
 ss_benchmarks/*
-!ss_benchmarks/k_2200.hgr
-!ss_benchmarks/k_2200.insts
 !ss_benchmarks/dsp_7400_lut_1110000_fd_2220000.hgr
 !ss_benchmarks/dsp_7400_lut_1110000_fd_2220000.insts
 !ss_benchmarks/case1.hgr
